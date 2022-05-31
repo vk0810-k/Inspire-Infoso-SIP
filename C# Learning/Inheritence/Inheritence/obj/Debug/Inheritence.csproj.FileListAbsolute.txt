@@ -1,0 +1,8 @@
+E:\INSPIRE INFOSOL\C#\Inheritence\Inheritence\bin\Debug\Inheritence.exe.config
+E:\INSPIRE INFOSOL\C#\Inheritence\Inheritence\bin\Debug\Inheritence.exe
+E:\INSPIRE INFOSOL\C#\Inheritence\Inheritence\bin\Debug\Inheritence.pdb
+E:\INSPIRE INFOSOL\C#\Inheritence\Inheritence\obj\Debug\Inheritence.csproj.AssemblyReference.cache
+E:\INSPIRE INFOSOL\C#\Inheritence\Inheritence\obj\Debug\Inheritence.csproj.SuggestedBindingRedirects.cache
+E:\INSPIRE INFOSOL\C#\Inheritence\Inheritence\obj\Debug\Inheritence.csproj.CoreCompileInputs.cache
+E:\INSPIRE INFOSOL\C#\Inheritence\Inheritence\obj\Debug\Inheritence.exe
+E:\INSPIRE INFOSOL\C#\Inheritence\Inheritence\obj\Debug\Inheritence.pdb

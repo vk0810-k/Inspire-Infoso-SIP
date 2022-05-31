@@ -1,0 +1,8 @@
+E:\INSPIRE INFOSOL\C#\Practice Problems\Practice Problems\bin\Debug\Practice Problems.exe.config
+E:\INSPIRE INFOSOL\C#\Practice Problems\Practice Problems\bin\Debug\Practice Problems.exe
+E:\INSPIRE INFOSOL\C#\Practice Problems\Practice Problems\bin\Debug\Practice Problems.pdb
+E:\INSPIRE INFOSOL\C#\Practice Problems\Practice Problems\obj\Debug\Practice Problems.csproj.AssemblyReference.cache
+E:\INSPIRE INFOSOL\C#\Practice Problems\Practice Problems\obj\Debug\Practice Problems.csproj.SuggestedBindingRedirects.cache
+E:\INSPIRE INFOSOL\C#\Practice Problems\Practice Problems\obj\Debug\Practice Problems.csproj.CoreCompileInputs.cache
+E:\INSPIRE INFOSOL\C#\Practice Problems\Practice Problems\obj\Debug\Practice Problems.exe
+E:\INSPIRE INFOSOL\C#\Practice Problems\Practice Problems\obj\Debug\Practice Problems.pdb

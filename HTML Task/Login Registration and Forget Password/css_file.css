@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+    background: #4288c8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+  font-family: 'Ubuntu';
+    width: 80%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+  }
+
+select {
+    width: 80%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+  }
+  
+  /* Style the submit button */
+  input[type=submit] {
+    color: #fff;
+    background: #2DC2BC;
+    font-weight: bold;
+  }
+  input[type=submit]:hover {
+    background: rgb(219, 0, 0);
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+  }
+  
+  /* Style the container for inputs */
+  .container {
+    margin-top: 50px;
+    width: 85%;
+    background-color: #FFFFFF;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 50px;
+  }
+  /* The message box is shown when the user clicks on the password field */
+  #message {
+    display:none;
+    background: #f1f1f1;
+    color: #000;
+    position: relative;
+    padding: 20px;
+    margin-top: 10px;
+  }
+  
+  #message p {
+    padding: 10px 35px;
+    font-size: 18px;
+  }
+  
+  /* Add a green text color and a checkmark when the requirements are right */
+  .valid {
+    color: green;
+  }
+  
+  .valid:before {
+    position: relative;
+    left: -35px;
+    content: "✔";
+  }
+  
+  /* Add a red text color and an "x" when the requirements are wrong */
+  .invalid {
+    color: red;
+  }
+  
+  .invalid:before {
+    position: relative;
+    left: -35px;
+    content: "✖";
+  }
+
+  .reg-bwn {
+    font-family: 'Ubuntu';
+    margin: 25px 0px 0px 0px;
+    text-align: center
+  }
+  .reg-bwn a {
+    font-size: 16px;
+    font-weight: 500;
+    color: #fff;
+    background: #2DC2BC;
+    padding: 8px 25px;
+    border-radius: 25px;
+  }
+  .reg-bwn a:hover{
+    background: rgb(219, 0, 0);
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+  }
+
+  .login-bottom {
+    text-align: center;
+  }
+
+  .login-bottom-left{
+    float: left;
+  }
+  .login-bottom-right{
+    float: right;
+  }
+
+  h1
+  {
+    text-align: center;
+  }
+
+  h4
+  {
+    text-align: center;
+  }

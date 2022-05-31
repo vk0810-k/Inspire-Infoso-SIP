@@ -1,0 +1,8 @@
+E:\INSPIRE INFOSOL\C#\Internship Test\Internship Test\bin\Debug\Internship Test.exe.config
+E:\INSPIRE INFOSOL\C#\Internship Test\Internship Test\bin\Debug\Internship Test.exe
+E:\INSPIRE INFOSOL\C#\Internship Test\Internship Test\bin\Debug\Internship Test.pdb
+E:\INSPIRE INFOSOL\C#\Internship Test\Internship Test\obj\Debug\Internship Test.csproj.AssemblyReference.cache
+E:\INSPIRE INFOSOL\C#\Internship Test\Internship Test\obj\Debug\Internship Test.csproj.SuggestedBindingRedirects.cache
+E:\INSPIRE INFOSOL\C#\Internship Test\Internship Test\obj\Debug\Internship Test.csproj.CoreCompileInputs.cache
+E:\INSPIRE INFOSOL\C#\Internship Test\Internship Test\obj\Debug\Internship Test.exe
+E:\INSPIRE INFOSOL\C#\Internship Test\Internship Test\obj\Debug\Internship Test.pdb

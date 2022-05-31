@@ -1,0 +1,8 @@
+E:\INSPIRE INFOSOL\C#\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe.config
+E:\INSPIRE INFOSOL\C#\Polymorphism\Polymorphism\bin\Debug\Polymorphism.exe
+E:\INSPIRE INFOSOL\C#\Polymorphism\Polymorphism\bin\Debug\Polymorphism.pdb
+E:\INSPIRE INFOSOL\C#\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csproj.AssemblyReference.cache
+E:\INSPIRE INFOSOL\C#\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csproj.SuggestedBindingRedirects.cache
+E:\INSPIRE INFOSOL\C#\Polymorphism\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
+E:\INSPIRE INFOSOL\C#\Polymorphism\Polymorphism\obj\Debug\Polymorphism.exe
+E:\INSPIRE INFOSOL\C#\Polymorphism\Polymorphism\obj\Debug\Polymorphism.pdb

@@ -1,0 +1,8 @@
+E:\INSPIRE INFOSOL\C#\Classes and Methods\Classes and Methods\bin\Debug\Classes and Methods.exe.config
+E:\INSPIRE INFOSOL\C#\Classes and Methods\Classes and Methods\bin\Debug\Classes and Methods.exe
+E:\INSPIRE INFOSOL\C#\Classes and Methods\Classes and Methods\bin\Debug\Classes and Methods.pdb
+E:\INSPIRE INFOSOL\C#\Classes and Methods\Classes and Methods\obj\Debug\Classes and Methods.csproj.AssemblyReference.cache
+E:\INSPIRE INFOSOL\C#\Classes and Methods\Classes and Methods\obj\Debug\Classes and Methods.csproj.SuggestedBindingRedirects.cache
+E:\INSPIRE INFOSOL\C#\Classes and Methods\Classes and Methods\obj\Debug\Classes and Methods.csproj.CoreCompileInputs.cache
+E:\INSPIRE INFOSOL\C#\Classes and Methods\Classes and Methods\obj\Debug\Classes and Methods.exe
+E:\INSPIRE INFOSOL\C#\Classes and Methods\Classes and Methods\obj\Debug\Classes and Methods.pdb

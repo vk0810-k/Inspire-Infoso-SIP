@@ -1,0 +1,8 @@
+E:\INSPIRE INFOSOL\C#\Working with Parameters\Working with Parameters\bin\Debug\Working with Parameters.exe.config
+E:\INSPIRE INFOSOL\C#\Working with Parameters\Working with Parameters\bin\Debug\Working with Parameters.exe
+E:\INSPIRE INFOSOL\C#\Working with Parameters\Working with Parameters\bin\Debug\Working with Parameters.pdb
+E:\INSPIRE INFOSOL\C#\Working with Parameters\Working with Parameters\obj\Debug\Working with Parameters.csproj.AssemblyReference.cache
+E:\INSPIRE INFOSOL\C#\Working with Parameters\Working with Parameters\obj\Debug\Working with Parameters.csproj.SuggestedBindingRedirects.cache
+E:\INSPIRE INFOSOL\C#\Working with Parameters\Working with Parameters\obj\Debug\Working with Parameters.csproj.CoreCompileInputs.cache
+E:\INSPIRE INFOSOL\C#\Working with Parameters\Working with Parameters\obj\Debug\Working with Parameters.exe
+E:\INSPIRE INFOSOL\C#\Working with Parameters\Working with Parameters\obj\Debug\Working with Parameters.pdb

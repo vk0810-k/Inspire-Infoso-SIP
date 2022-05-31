@@ -1,0 +1,8 @@
+E:\INSPIRE INFOSOL\C#\operators\operators\bin\Debug\operators.exe.config
+E:\INSPIRE INFOSOL\C#\operators\operators\bin\Debug\operators.exe
+E:\INSPIRE INFOSOL\C#\operators\operators\bin\Debug\operators.pdb
+E:\INSPIRE INFOSOL\C#\operators\operators\obj\Debug\operators.csproj.AssemblyReference.cache
+E:\INSPIRE INFOSOL\C#\operators\operators\obj\Debug\operators.csproj.SuggestedBindingRedirects.cache
+E:\INSPIRE INFOSOL\C#\operators\operators\obj\Debug\operators.csproj.CoreCompileInputs.cache
+E:\INSPIRE INFOSOL\C#\operators\operators\obj\Debug\operators.exe
+E:\INSPIRE INFOSOL\C#\operators\operators\obj\Debug\operators.pdb

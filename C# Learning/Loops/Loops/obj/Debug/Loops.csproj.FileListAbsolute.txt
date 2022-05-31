@@ -1,0 +1,8 @@
+E:\INSPIRE INFOSOL\C#\Loops\Loops\bin\Debug\Loops.exe.config
+E:\INSPIRE INFOSOL\C#\Loops\Loops\bin\Debug\Loops.exe
+E:\INSPIRE INFOSOL\C#\Loops\Loops\bin\Debug\Loops.pdb
+E:\INSPIRE INFOSOL\C#\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+E:\INSPIRE INFOSOL\C#\Loops\Loops\obj\Debug\Loops.csproj.SuggestedBindingRedirects.cache
+E:\INSPIRE INFOSOL\C#\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+E:\INSPIRE INFOSOL\C#\Loops\Loops\obj\Debug\Loops.exe
+E:\INSPIRE INFOSOL\C#\Loops\Loops\obj\Debug\Loops.pdb
